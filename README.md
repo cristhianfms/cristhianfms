@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Mercado Libre as backend developer
-- 🌱 I’m currently learning about golang
+- 🌱 I’m currently studing Software Engineer at ORT University
 - 👯 I’m looking to collaborate on challenging problems to solve
 - 🤔 I’m looking for help with learning how to learn
