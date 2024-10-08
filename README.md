@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Mercado Libre as backend developer
+- 🔭 I’m currently working on Nubank as a software engineer
 - 🌱 I’m currently studing Software Engineer at ORT University
 - 👯 I’m looking to collaborate on challenging problems to solve
 - 🤔 I’m looking for help with learning how to learn
